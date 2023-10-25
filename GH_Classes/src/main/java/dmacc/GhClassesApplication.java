@@ -1,4 +1,4 @@
-package dmacc.GH_Classes;
+package dmacc;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
